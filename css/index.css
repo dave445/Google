@@ -1,4 +1,34 @@
-.header {
+header {
+    position: relative;
+    /* float: right; */
+   
+}
+
+.dots {
+    width: 40px;
+    height: 40px;
+}
+
+.top-menu {
+    
+}
+
+.contain {
+    float: right;
+}
+
+.link {
+    padding: 10px;
+}
+
+.more {
+    margin-left: 10px;
+}
+
+.logo {
     position: absolute;
-    float: left;
+    top: 250px;
+    left:600px;
+    width: 600px;
+    height: 200px;
 }
